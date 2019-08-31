@@ -1,6 +1,7 @@
 # nuxt-tutorial
 
-> My wicked Nuxt.js project
+## これなに
+- Nuxt.js触ってみよーと思ってTutorialやったやつ
 
 ## Build Setup
 
